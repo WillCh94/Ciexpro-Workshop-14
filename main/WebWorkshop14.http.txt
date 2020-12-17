@@ -1,0 +1,92 @@
+
+
+<!DOCTYPE html>
+
+<html lang = "es">
+	
+	<head>
+		
+		< meta charset = "UTF-8" />
+		< meta name = "ledRGB" content = "Ejemplo para Control de LED RGB" />
+		< meta name = "keywords" content = "LED, RGB, ESP32, WiFi" />
+	
+	</ head>
+	
+	<body style = "background-color: #9AE0E7;">
+	
+		<header>
+		
+			<h1 align = "center">
+			
+				<font color = "navy">
+			
+					Control de Iluminación de un LED RGB
+			
+				</ font>
+		
+			</ h1>
+		
+		</ header>
+		
+		<navy>
+			
+			<h2 align = "center">
+				
+				<br>
+				<p align = "center">
+					
+					<a href = "LEDR">
+						
+						Cambiar Estado LED Rojo
+				
+					</ a>
+				
+				</ p>
+				<br>
+				<p align = "center">
+					
+					<a href = "LEDG">
+						
+						Cambiar Estado LED Verde
+				
+					</a>
+				
+				</p>
+				<br>
+				<p align = "center">
+					
+					<a href = "LEDB">
+						
+						Cambiar Estado LED Azul
+				
+					</ a>
+				
+				</ p>
+				<br>
+				<p align = "center">
+					
+					<a href = "LEDsUp">
+						
+						Cambiar encender Todos los LEDs
+				
+					</ a>
+				
+				</ p>
+				<br>
+				<p align = "center">
+					
+					<a href = "LEDsOff">
+						
+						Cambiar Apagar Todos los LEDs
+				
+					</ a>
+				
+				</ p>
+			
+			</ h2>
+		
+		</ nav>
+		
+	</ body>		
+				
+</ html>
